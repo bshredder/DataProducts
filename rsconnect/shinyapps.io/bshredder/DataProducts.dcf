@@ -1,0 +1,8 @@
+name: DataProducts
+account: bshredder
+server: shinyapps.io
+bundleId: 335224
+url: https://bshredder.shinyapps.io/DataProducts
+when: 1450478190.13486
+asMultiple: FALSE
+asStatic: FALSE
